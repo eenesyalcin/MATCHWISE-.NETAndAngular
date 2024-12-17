@@ -1,0 +1,6 @@
+@matchwiseServer.WebAPI_HostAddress = http://localhost:5193
+
+GET {{matchwiseServer.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
